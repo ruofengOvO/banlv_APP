@@ -1,0 +1,4 @@
+ RewriteEngine On
+ RewriteBase /
+ RewriteCond %{SERVER_PORT} 443
+ RewriteRule ^(.*)$ https://wuruofeng.vip/$1 [R=301,L]

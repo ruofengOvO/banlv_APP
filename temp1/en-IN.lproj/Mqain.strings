@@ -1,0 +1,207 @@
+
+/* Class = "UIButton"; normalTitle = "播放"; ObjectID = "1DQ-j3-fDb"; */
+"1DQ-j3-fDb.normalTitle" = "播放";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1s3-Zc-V93"; */
+"1s3-Zc-V93.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "修改语言"; ObjectID = "2GA-xy-qYY"; */
+"2GA-xy-qYY.normalTitle" = "修改语言";
+
+/* Class = "UILabel"; text = "浏览"; ObjectID = "3Qv-du-ssJ"; */
+"3Qv-du-ssJ.text" = "浏览";
+
+/* Class = "UILabel"; text = "light"; ObjectID = "3ld-uC-EsM"; */
+"3ld-uC-EsM.text" = "light";
+
+/* Class = "UILabel"; text = "WEIGHT"; ObjectID = "6WH-lq-f4b"; */
+"6WH-lq-f4b.text" = "WEIGHT";
+
+/* Class = "UILabel"; text = "Woodside, NY 11101"; ObjectID = "6bd-r0-Uk5"; */
+"6bd-r0-Uk5.text" = "Woodside, NY 11101";
+
+/* Class = "UISegmentedControl"; 6oS-nH-OHW.segmentTitles[0] = "      源语言"; ObjectID = "6oS-nH-OHW"; */
+"6oS-nH-OHW.segmentTitles[0]" = "      源语言";
+
+/* Class = "UISegmentedControl"; 6oS-nH-OHW.segmentTitles[1] = "翻译语言"; ObjectID = "6oS-nH-OHW"; */
+"6oS-nH-OHW.segmentTitles[1]" = "翻译语言";
+
+/* Class = "UIButton"; normalTitle = "播放"; ObjectID = "A0l-nP-BDN"; */
+"A0l-nP-BDN.normalTitle" = "播放";
+
+/* Class = "UITabBarItem"; title = "map"; ObjectID = "Dum-Mj-AhQ"; */
+"Dum-Mj-AhQ.title" = "map";
+
+/* Class = "UIButton"; normalTitle = "导航"; ObjectID = "E1O-Xg-Q02"; */
+"E1O-Xg-Q02.normalTitle" = "导航";
+
+/* Class = "UIButton"; normalTitle = "修改语言"; ObjectID = "EJF-Hw-hAA"; */
+"EJF-Hw-hAA.normalTitle" = "修改语言";
+
+/* Class = "UILabel"; text = "E 30th St, New York, 10016"; ObjectID = "EZp-NP-HYp"; */
+"EZp-NP-HYp.text" = "E 30th St, New York, 10016";
+
+/* Class = "UILabel"; text = "FROM"; ObjectID = "H7j-pi-IFo"; */
+"H7j-pi-IFo.text" = "FROM";
+
+/* Class = "UIButton"; normalTitle = "修改语言"; ObjectID = "IWJ-Bb-I0h"; */
+"IWJ-Bb-I0h.normalTitle" = "修改语言";
+
+/* Class = "UITabBarItem"; title = "推荐"; ObjectID = "JHp-7e-wZc"; */
+"JHp-7e-wZc.title" = "推荐";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "JSo-q9-27N"; */
+"JSo-q9-27N.text" = "2";
+
+/* Class = "UILabel"; text = "06:30 PM"; ObjectID = "JcQ-vE-lRV"; */
+"JcQ-vE-lRV.text" = "06:30 PM";
+
+/* Class = "UILabel"; text = "REQUESTS"; ObjectID = "JgY-pr-0G0"; */
+"JgY-pr-0G0.text" = "REQUESTS";
+
+/* Class = "UILabel"; text = "WEIGHT"; ObjectID = "KfC-vY-RBp"; */
+"KfC-vY-RBp.text" = "WEIGHT";
+
+/* Class = "UILabel"; text = "$150"; ObjectID = "Kka-7K-AJO"; */
+"Kka-7K-AJO.text" = "$150";
+
+/* Class = "UIButton"; normalTitle = "REQUEST"; ObjectID = "LOh-1t-7PR"; */
+"LOh-1t-7PR.normalTitle" = "REQUEST";
+
+/* Class = "UILabel"; text = "$150"; ObjectID = "Op8-IK-qEN"; */
+"Op8-IK-qEN.text" = "$150";
+
+/* Class = "UIButton"; normalTitle = "附近"; ObjectID = "QYK-MQ-tWI"; */
+"QYK-MQ-tWI.normalTitle" = "附近";
+
+/* Class = "UILabel"; text = "5 people have sent a request"; ObjectID = "QsN-4k-kAW"; */
+"QsN-4k-kAW.text" = "5 people have sent a request";
+
+/* Class = "UITabBarItem"; title = "artran"; ObjectID = "TLT-ZP-2OQ"; */
+"TLT-ZP-2OQ.title" = "artran";
+
+/* Class = "UILabel"; text = "PLEDGE"; ObjectID = "UWN-1S-fxI"; */
+"UWN-1S-fxI.text" = "PLEDGE";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "UwH-Eo-4DC"; */
+"UwH-Eo-4DC.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "New York, NY 10025"; ObjectID = "V52-2k-5ur"; */
+"V52-2k-5ur.text" = "New York, NY 10025";
+
+/* Class = "UILabel"; text = "REQUEST DEADLINE"; ObjectID = "V9p-hd-oBn"; */
+"V9p-hd-oBn.text" = "REQUEST DEADLINE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZG2-LF-MQJ"; */
+"ZG2-LF-MQJ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "刷新"; ObjectID = "a5C-Jy-uYc"; */
+"a5C-Jy-uYc.normalTitle" = "刷新";
+
+/* Class = "UITabBarItem"; title = "ar"; ObjectID = "aDT-T6-hmL"; */
+"aDT-T6-hmL.title" = "ar";
+
+/* Class = "UITabBarItem"; title = "text"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "text";
+
+/* Class = "UILabel"; text = "06:30 pm"; ObjectID = "acu-WR-spW"; */
+"acu-WR-spW.text" = "06:30 pm";
+
+/* Class = "UILabel"; text = "$25"; ObjectID = "ajg-WQ-jvp"; */
+"ajg-WQ-jvp.text" = "$25";
+
+/* Class = "UILabel"; text = "# 2618-3157"; ObjectID = "aoi-MV-9ay"; */
+"aoi-MV-9ay.text" = "# 2618-3157";
+
+/* Class = "UILabel"; text = "SENDER"; ObjectID = "atF-C2-7Gu"; */
+"atF-C2-7Gu.text" = "SENDER";
+
+/* Class = "UILabel"; text = "PLEDGE"; ObjectID = "bS4-FT-Xlz"; */
+"bS4-FT-Xlz.text" = "PLEDGE";
+
+/* Class = "UILabel"; text = "May 16, 2015"; ObjectID = "be7-57-bPJ"; */
+"be7-57-bPJ.text" = "May 16, 2015";
+
+/* Class = "UILabel"; text = "W 90th St"; ObjectID = "cEf-WR-iSC"; */
+"cEf-WR-iSC.text" = "W 90th St";
+
+/* Class = "UIButton"; normalTitle = "中文"; ObjectID = "cMo-Sd-zOf"; */
+"cMo-Sd-zOf.normalTitle" = "中文";
+
+/* Class = "UITabBarItem"; title = "pohto"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "pohto";
+
+/* Class = "UIButton"; normalTitle = "导航"; ObjectID = "dPt-dX-v0I"; */
+"dPt-dX-v0I.normalTitle" = "导航";
+
+/* Class = "UILabel"; text = "TODAY"; ObjectID = "dZ5-Dg-gu4"; */
+"dZ5-Dg-gu4.text" = "TODAY";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eoW-XR-3Cs"; */
+"eoW-XR-3Cs.text" = "Label";
+
+/* Class = "UILabel"; text = "46th Ave"; ObjectID = "fsU-XX-0ac"; */
+"fsU-XX-0ac.text" = "46th Ave";
+
+/* Class = "UILabel"; text = "TO"; ObjectID = "jCy-TF-GEV"; */
+"jCy-TF-GEV.text" = "TO";
+
+/* Class = "UIButton"; normalTitle = "拍照"; ObjectID = "lRH-MB-Hvn"; */
+"lRH-MB-Hvn.normalTitle" = "拍照";
+
+/* Class = "UILabel"; text = "DELIVERY DATE"; ObjectID = "mix-ZZ-d8d"; */
+"mix-ZZ-d8d.text" = "DELIVERY DATE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nwQ-hl-TYL"; */
+"nwQ-hl-TYL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "light"; ObjectID = "oqF-ax-bAI"; */
+"oqF-ax-bAI.text" = "light";
+
+/* Class = "UIButton"; normalTitle = "从相册中选择"; ObjectID = "pSZ-Ur-0Lv"; */
+"pSZ-Ur-0Lv.normalTitle" = "从相册中选择";
+
+/* Class = "UILabel"; text = "Edward Norton"; ObjectID = "qYk-N0-ljy"; */
+"qYk-N0-ljy.text" = "Edward Norton";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "qjJ-Gg-3Ry"; */
+"qjJ-Gg-3Ry.title" = "Item";
+
+/* Class = "UILabel"; text = "24 minutes"; ObjectID = "qqH-VE-VFK"; */
+"qqH-VE-VFK.text" = "24 minutes";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "ry2-9A-CeA"; */
+"ry2-9A-CeA.text" = "2";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "sbD-vC-bye"; */
+"sbD-vC-bye.title" = "Item";
+
+/* Class = "UILabel"; text = "REQUESTS"; ObjectID = "szZ-m6-E0X"; */
+"szZ-m6-E0X.text" = "REQUESTS";
+
+/* Class = "UIButton"; normalTitle = "  打赏"; ObjectID = "t9Z-Ou-pHX"; */
+"t9Z-Ou-pHX.normalTitle" = "  打赏";
+
+/* Class = "UITabBarItem"; title = "talk"; ObjectID = "uA1-0D-u8c"; */
+"uA1-0D-u8c.title" = "talk";
+
+/* Class = "UIButton"; normalTitle = "英语"; ObjectID = "usI-TL-jYv"; */
+"usI-TL-jYv.normalTitle" = "英语";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vUe-en-pjA"; */
+"vUe-en-pjA.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "翻译"; ObjectID = "wUn-HG-RjH"; */
+"wUn-HG-RjH.normalTitle" = "翻译";
+
+/* Class = "UIButton"; normalTitle = "翻译"; ObjectID = "wjD-nf-D0s"; */
+"wjD-nf-D0s.normalTitle" = "翻译";
+
+/* Class = "UILabel"; text = "W 85th St, New York, 10024 "; ObjectID = "xfU-LN-n7C"; */
+"xfU-LN-n7C.text" = "W 85th St, New York, 10024 ";
+
+/* Class = "UILabel"; text = "#25"; ObjectID = "yWV-D2-zsW"; */
+"yWV-D2-zsW.text" = "#25";
+
+/* Class = "UIButton"; normalTitle = "附近"; ObjectID = "yve-bh-W4v"; */
+"yve-bh-W4v.normalTitle" = "附近";

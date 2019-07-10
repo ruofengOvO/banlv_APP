@@ -1,0 +1,60 @@
+/* 
+  ebstteing.strings
+  temp1
+
+  Created by miaoz on 2019/3/22.
+  Copyright © 2019 Rohlf W. All rights reserved.
+*/
+"返回" = "Return";
+"翻译" = "translate";
+"文本翻译" = "Text translation";
+"英语" = "English";
+"日语" = "Japanese";
+"德语" = "German";
+"中文" = "Chinese";
+"选择语言" ="Language selection";
+"按下按钮开始录音" = "Press the button to start recording";
+"选择你需要的模式" = "Choose the pattern you need";
+"图片翻译" = "Picture translation";
+" 美食 " = " Delicious food ";
+" 娱乐 " = "entertainment ";
+" 景点 " = " Scenic spot ";
+" 酒店 " = " Hotel ";
+"消费记录" = "Records of consumption";
+"我的预定" = "My reservation";
+"我的消息/券" = "My news / vouchers";
+"在线浏览免流量" = "No traffic for online browsing";
+"帮助中心" = "Help center";
+"我要反馈" = "feedback.";
+"给我们评分" = "Give us a score.";
+"成为作者" = "Become author";
+"退出伴旅" = "Exit companion";
+"开通会员可使用更多精彩功能" = "Open Members Can Use More Wonderful Functions";
+"VIP状态:未开通" = "VIP Status: Not Opened";
+"退出" = "Sign out";
+"足迹" = "footprint";
+"动态" = "dynamic";
+"余额" = "balance";
+"翻译与工具" = "Translation and Tools";
+"个人与收藏" = "Personal and Collection";
+"推荐与周边" = "Recommendation and Peripheral";
+"选择" = "choose";
+"选择语言" = "language selection";
+"源语言" = "source ";
+"译向语言" = "Translation ";
+"搜索" = "search";
+"附近" = "nearby";
+"酒店" = "Hotel";
+"景点" = "Scenic spot";
+"交通设施" = "Traffic facilities";
+"寻找酒店" = "Looking for a hotel";
+"查找餐厅" = "Find Restaurant";
+"查找交通设施" = "Search for transportation facilities";
+"发现景点" = "Discover spots";
+"关闭" = "Close";
+"导航" = "Navigation";
+"导航到这里去" = "Navigate here.";
+"详细信息" = "detailed information";
+"查看这里的详细信息" = "Check out the details here.";
+"播放介绍" = "Broadcast introduction";
+"观看介绍片" = "Watch the introductory film";
